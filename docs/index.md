@@ -1,7 +1,7 @@
 # Labs
 // Last Updated: **September 28, 2018**
 
-Welcome to my labs, I'll occasionally post some experiment I thought was worth noting here. Most labs utilize my [data API](https://data.pengra.io) ([https://pengra.github.io/data/](documentation)), note that the data API usually down between 11pm and 5am PST because the server is loud and I want to sleep. If I gave you the password, the URL you want is [here](https://labs.pengra.io).
+Welcome to my labs, I'll occasionally post some experiment I thought was worth noting here. Most labs utilize my [data API](https://data.pengra.io) ([documentation](https://pengra.github.io/data/)), note that the data API usually down between 11pm and 5am PST because the server is loud and I want to sleep. If I gave you the password, the URL you want is [here](https://labs.pengra.io).
 
 <table>
     <tr>
