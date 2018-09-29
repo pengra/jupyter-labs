@@ -248,4 +248,4 @@ plot_scores(OTHER_DATA)
 
 # Conclusion
 
-The distribution of scores for every race other than African Americans were mostly low scores. African American scores wree more evenly distributed between all scores. This data suggests that not only are African Americans in Broward County placed into jails at a higher rate, they're also deemed to be a higher risk; thus more likely to be locked up longer.
+The distribution of scores for every race other than African Americans were mostly low scores. African American scores were more evenly distributed between all scores. This data suggests that not only are African Americans in Broward County placed into jails at a higher rate, they're also deemed to be a higher risk; thus more likely to be locked up longer.
