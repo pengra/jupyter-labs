@@ -1,5 +1,5 @@
 
-# Naturally Racially Occurring Bias in AIs
+# Naturally Occurring Racial Bias in AIs
 // Reported on **September 20th, 2017**<br/>
 // Status: **[Turned To Service](https://pengra.github.com/data/compass)**
 
