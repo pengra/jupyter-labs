@@ -1,7 +1,7 @@
 
 # Naturally Occurring Racial Bias in AIs
 // Reported on **September 20th, 2017**<br/>
-// Status: **[Turned To Service](https://pengra.github.com/data/compass)**
+// Status: **[Turned To Service](https://pengra.github.io/data/compass)**
 
 This simple lab takes a look at all the jail inmates of Broward County Jail and their COMPASS Scores. COMPASS is an AI, and it rates them on three things:
 
