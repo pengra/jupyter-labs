@@ -1,6 +1,6 @@
 # Mapping Physical Locations of Servers
 // Reported on **September 20th, 2018**<br/>
-// Status: **Converting to Service**
+// Status: **Complete w/ plans to Convert to Service**
 
 This simple lab displays all foreign domains on a website and creates [`geojson`](https://geojson.io) that shows the physical locations of servers. This yields some pretty fascinating results.
 
