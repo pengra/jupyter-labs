@@ -14,6 +14,6 @@ Welcome to my labs, I'll occasionally post some experiment I thought was worth n
         <td><a href="/labs/compass_analysis">COMPASS Analysis</a></td><td><a href="/data/compass">Converted to Service</a></td><td>September 28th, 2018</td><td>COMPAS is an AI that hands out jail sentences. There's growing evidence that the AI is racially biased. I decide to look myself.</td>
     </tr>
     <tr>
-        <td><a href="/labs/domain_location">Domain Location</a></td><td><a href="/data/geoip">Converted to Service</a></td><td>September 20th, 2018</td><td>This lab grabs all the links on the page and maps the physical locations of servers (that you'd use if you clicked on the link).</td>
+        <td><a href="/labs/domain_location">Domain Location</a></td><td><a href="/data/geoip">Complete</a></td><td>September 20th, 2018</td><td>This lab grabs all the links on the page and maps the physical locations of servers (that you'd use if you clicked on the link).</td>
     </tr>
 </table>
