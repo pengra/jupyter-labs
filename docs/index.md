@@ -1,11 +1,14 @@
 # Labs
-// Last Updated: **September 28, 2018**
+// Last Updated: **November 12, 2018**
 
 Welcome to my labs, I'll occasionally post some experiment I thought was worth noting here. Most labs utilize my [data API](https://data.pengra.io) ([documentation](https://pengra.github.io/data/)), note that the data API usually down between 11pm and 5am PST because the server is loud and I want to sleep. If I gave you the password, the URL you want is [here](https://labs.pengra.io).
 
 <table>
     <tr>
         <th>Lab Title</th><th>Status</th><th>Last Updated</th><th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="/labs/DH">Diffie-Hellman Key Exchange</a></td><td>Completed</td><td>November 12th, 2018</td><td>A lab describing how the Diffie-Hellman Key Exchange works. Includes an attempted hack.</td>
     </tr>
     <tr>
         <td><a href="/labs/indexing_wikipedia">Indexing Wikipedia</a></td><td>Under Development</td><td>September 28th, 2018</td><td>A lab about creating viable search terms for wikipedia pages.</td>
